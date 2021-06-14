@@ -13,5 +13,3 @@ Classes to explore various text embeddings and learning models
 ## Continuous Embeddings
 - comparison of logistic regression on basic TFIDF embeddings to doc2vec embeddings
 - seeing how well model generalizes over different test-train splits
-
-More in progress!
